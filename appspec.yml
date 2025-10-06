@@ -2,8 +2,8 @@ version: 0.0
 os: linux
 files:
   - source: /index.html
-    destination: /var/www/html
-   - source: /home.html
+    destination: /var/www/htm
+  - source: /home.html
     destination: /var/www/html
 
 hooks:
